@@ -1,0 +1,24 @@
+{ 
+  "name": "findcommentjs",
+  "description": "",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Akileus77/findCommentJS.git"
+  },
+  "keywords": [],
+  "author": "Akileus77",
+  "license": "MIT", 
+  "homepage": "https://github.com/Akileus77/findCommentJS",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "googleapis": "^112.0.0",
+    "readline": "^1.3.0"
+  }
+}
